@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "serve": "live-server ./build",
+    "start": "node build.js"
+  },
+  "dependencies": {
+    "contentful-metalsmith": "^0.11.0",
+    "handlebars": "^4.0.8",
+    "metalsmith": "^2.3.0",
+    "metalsmith-assets": "^0.1.0",
+    "metalsmith-layouts": "^1.8.1",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
