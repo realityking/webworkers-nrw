@@ -1,0 +1,3 @@
+NextMeetupWhenIntent Wann ist das nächste Meetup
+NextMeetupTopicsIntent Worum geht es beim nächsten Meetup
+NextMeetupTopicsIntent Worum es beim nächsten Meetup geht

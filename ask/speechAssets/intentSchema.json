@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "NextMeetupWhenIntent"
+    },
+    {
+      "intent": "NextMeetupTopicsIntent"
+    }
+  ]
+}
